@@ -1,2 +1,3 @@
 <!-- README.md -->
-Hello world!
+## Hello world
+This repository hosts the website.
