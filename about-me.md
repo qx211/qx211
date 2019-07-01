@@ -23,7 +23,9 @@ MSci in Natural Sciences, Astrophysics    2012-2013
 B.A.(Hons) in Mathematical Tripos         2009-2012
 
 ## RESEARCH EXPERIENCE
-Purple Mountain Observatory, Partner Group of MPI für Astronomie      2014-2017
+***Purple Mountain Observatory*** 
+
+Partner Group of MPI für Astronomie      2014-2017
 
 ## TECHNICAL SKILLS
 - Programming 
