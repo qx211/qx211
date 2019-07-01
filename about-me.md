@@ -6,8 +6,8 @@ Qianli Xia
 ============
 
 <pre>Institute for Astronomy              qx211 AT roe.ac.uk
-Edinburgh EH9 3HJ             <a href="https://qx211.github.io/qx211/">https://qx211.github.io/qx211/</a>
-U.K.                                        +44 757 621 9852</pre>
+Edinburgh EH9 3HJ         <a href="https://qx211.github.io/qx211/">https://qx211.github.io/qx211/</a>
+U.K.                                      +44 757 621 9852</pre>
 
 ## EDUCATION
 University of Edinburgh
