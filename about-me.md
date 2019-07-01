@@ -10,18 +10,17 @@ Edinburgh EH9 3HJ         <a href="https://qx211.github.io/qx211/">https://qx211
 U.K.                                   +44 757 621 9852</pre>
 
 ## EDUCATION
-University of Edinburgh
-
+***University of Edinburgh***
 PhD in Observational Cosmology            2017-2020
 
-University of Cambridge
-
+***University of Cambridge***
 MSci in Natural Sciences, Astrophysics    2012-2013
 
+***University of Cambridge***
 B.A.(Hons) in Mathematical Tripos         2009-2012
 
 ## RESEARCH EXPERIENCE
-Purple Mountain Observatory, Partner Group of MPI f&ur Astronomie      2014-2017
+Purple Mountain Observatory, Partner Group of MPI für Astronomie      2014-2017
 
 University of Cambridge, Institute of Astronomy      2012-2013
 
