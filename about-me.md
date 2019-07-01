@@ -9,6 +9,8 @@ Qianli Xia
 Edinburgh EH9 3HJ         <a href="https://qx211.github.io/qx211/">https://qx211.github.io/qx211/</a>
 U.K.                                   +44 757 621 9852</pre>
 
+---
+
 ## EDUCATION
 ***University of Edinburgh***
 
@@ -22,16 +24,22 @@ MSci in Natural Sciences, Astrophysics    2012-2013
 
 B.A.(Hons) in Mathematical Tripos         2009-2012
 
+---
+
 ## RESEARCH EXPERIENCE
 ***Purple Mountain Observatory*** 
 
 Partner Group of MPI für Astronomie      2014-2017
+
+---
 
 ## TECHNICAL SKILLS
 - Programming 
 	- Fortran, Python, MPI, CUDA, C, Julia, Mathematica, MatLab, Git, LaTeX
 - Science Codes
 	- Two-point correlation function, Power Spectrum (powmes), ROCKSTAR, COSMOSIS, SUNDIAL
+
+---
 
 ## RESEARCH INTEREST
 - Weak Gravitational Lensing
