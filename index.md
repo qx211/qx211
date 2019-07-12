@@ -20,3 +20,6 @@ Be Bold.
 [News](./news.html)
 
 [Teaching](./teaching.html)
+
+try maths
+$$ x = x = y$$
