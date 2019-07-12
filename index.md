@@ -18,3 +18,5 @@ Be Bold.
 [Publications](./publications.html)
 
 [News](./news.html)
+
+[Teaching](./teaching.html)
