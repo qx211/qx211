@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default3
 ---
 
 # Teaching
@@ -13,5 +13,5 @@ Teaching assistant (TA) in
 - Algebra and Calculus (2017-2018)
 
 ## Outreach activity
-2019 Open Day in Royal Observatory of Edinburgh
-2018 Oxbridge Summer Camp [link](https://abridgeeducamp.com/bill-xia-university-of-cambridge/)
+- 2019 Open Day in Royal Observatory of Edinburgh
+- 2018 Oxbridge Summer Camp [link](https://abridgeeducamp.com/bill-xia-university-of-cambridge/)
