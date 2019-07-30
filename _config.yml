@@ -7,3 +7,9 @@ logo3: /assets/img/teaching.png
 logo4: /assets/img/questions.png
 logo5: /assets/img/duck_alignment.jpg
 description: Observational Cosmologist
+# Google Analytics
+# Analytics
+analytics:
+  provider:  "google" # false (default), "google", "google-universal", "custom"
+  google:
+  tracking_id:UA-144586651-1
