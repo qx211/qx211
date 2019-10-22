@@ -8,7 +8,7 @@ You can also find my articles on <u><a href="{{ site.author.googlescholar }}">my
 
 ## First author
 
-[***A gravitational lensing detection of filamentary structures connecting luminous red galaxies***](https://arxiv.org/pdf/1909.05852.pdf) <br>Xia, Q.</b>; Robertson, N.; Heymans, C.; et al. submitted to A&A
+[***A gravitational lensing detection of filamentary structures connecting luminous red galaxies***](https://arxiv.org/pdf/1909.05852.pdf) <br><b>Xia, Q.</b>; Robertson, N.; Heymans, C.; et al. submitted to A&A
 
 [***Halo Intrinsic Alignment: Dependence on Mass, Formation Time, and Environment***](https://arxiv.org/pdf/1706.07814.pdf)   
 <b>Xia, Q.</b>; Kang, X.; Wang, P. et al. 2017, ApJ, 848, 22
