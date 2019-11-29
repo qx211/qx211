@@ -11,6 +11,7 @@ Galaxy clusters, as giants in the universe, have witnessed most of the cosmic st
 ## Cosmic Web
 
 Galaxy surveys have shown that visible matter in our Universe is not uniformly distributed, and instead, a web-like structure is observed. We can classify the web into regions of clusters, filaments, sheet and voids. In particular, the Zel'dovich approximation predicts that \~42% of the mass of the Universe is in a filament environment, and this has been confirmed by simulations. However, as filament environments do not display a very high density contrast, this makes direct observations challenging ...
+(For more detail, see [paper on arXiv](https://arxiv.org/abs/1909.05852))
 
 ## Halo Alignment
 
