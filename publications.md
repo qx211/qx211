@@ -4,11 +4,11 @@ layout: default2
 
 # Publications
 
-You can also find my articles on <u><a href="{{ site.author.googlescholar }}">my Google Scholar</a>.</u> or on <u><a href="https://ui.adsabs.harvard.edu/search/fl=identifier%2Cdoctype&p_=0&q=author%3A(%22Xia%2C%20Qianli%22%20AND%20(%22Heymans%2C%20C%22%20OR%20%20%22Kang%2C%20X%22))">ADS query</a>.</u>
+You can also find my articles on <u><a href="{{ https://scholar.google.com/citations?user=ZqRfjLcAAAAJ&hl=en&oi=ao }}">my Google Scholar</a>.</u> or on <u><a href="https://ui.adsabs.harvard.edu/search/q=author%3A(%22Xia%2C%20Qianli%22%20AND%20(%22Heymans%2C%20C%22%20OR%20%20%22Kang%2C%20X%22%20OR%20%22Cataneo%2C%20M%22))">ADS query</a>.</u>
 
 ## First author
 
-[***A gravitational lensing detection of filamentary structures connecting luminous red galaxies***](https://arxiv.org/pdf/1909.05852.pdf) <br><b>Xia, Q.</b>; Robertson, N.; Heymans, C.; et al. submitted to A&A
+[***A gravitational lensing detection of filamentary structures connecting luminous red galaxies***](https://arxiv.org/pdf/1909.05852.pdf) <br><b>Xia, Q.</b>; Robertson, N.; Heymans, C.; et al. accepted to A&A
 
 [***Halo Intrinsic Alignment: Dependence on Mass, Formation Time, and Environment***](https://arxiv.org/pdf/1706.07814.pdf)   
 <b>Xia, Q.</b>; Kang, X.; Wang, P. et al. 2017, ApJ, 848, 22
