@@ -14,7 +14,7 @@ U.K.                                  +44 757 621 9852</pre>
 ## EDUCATION
 ***University of Edinburgh***   
 PhD in Observational Cosmology            2017-2020   
-Supervisors: Prof. Catherine Heymans and Prof. John Peacock
+Supervisors: Prof. Catherine Heymans and Dr. Matteo Cataneo
 
 ***University of Cambridge***   
 MSci in Natural Sciences, Astrophysics    2012-2013
