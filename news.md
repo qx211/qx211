@@ -28,3 +28,5 @@ layout: default4
 7th  Jan 2018 the 15th Durham-Edinburgh eXtragalactic (DEX) Workshop, Edinburgh
 
 18th Apr 2018 Statistical challenges for large-scale structure in the era of LSST, Oxford
+
+[back](./)

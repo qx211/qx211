@@ -15,6 +15,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Collaboration
 
+[***On the road to per-cent accuracy IV: ReACT -- computing the non-linear power spectrum beyond  $\Lambda$CDM***](https://ui.adsabs.harvard.edu/abs/2020arXiv200512184B/abstract) <br> Bose, B. et al 2020, eprint arXiv:2005.12184
+
 [***Hybrid $P_{\ell}(k)$: general, unified, non-linear matter power spectrum in redshift space***](https://ui.adsabs.harvard.edu/abs/2019arXiv191104391B/abstract) <br> Bose, B. et al 2019, eprint arXiv:1911.04391
 
 [***Constraints on the Evolution of the Galaxy Stellar Mass Function I: Role of Star Formation, Mergers, and Stellar Stripping***](https://ui.adsabs.harvard.edu/abs/2017ApJ...837...27C/abstract)   
@@ -28,3 +30,5 @@ Contini, E. et al 2017, ApJ, 849, 156
 
 [***Full-sky Ray-tracing Simulation of Weak Lensing Using ELUCID Simulations: Exploring Galaxy Intrinsic Alignment and Cosmic Shear Correlations***](https://ui.adsabs.harvard.edu/abs/2018ApJ...853...25W/abstract)   
 Wei, C. et al 2018, ApJ, 853, 25
+
+[back](./)
