@@ -1,5 +1,5 @@
 ---
-layout: default1
+layout: default6
 ---
 
 ## 3D view of pairs of haloes in the Millennium Simulations
