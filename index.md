@@ -20,3 +20,5 @@ Be Bold.
 [News](./news.html)
 
 [Teaching](./teaching.html)
+
+[Videos](./videos.html)
